@@ -1,20 +1,9 @@
-//
-//  ViewController.swift
-//  toDoList
-//
-//  Created by Julianne on 7/13/20.
-//  Copyright © 2020 Julianne Chen. All rights reserved.
-//
-
 import UIKit
+import MessageUI
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, MFMailComposeViewControllerDelegate {
+    
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
 
 
 }
-
